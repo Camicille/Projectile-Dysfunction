@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Projectile_2End
+comment0.text=\n\ BLACK\ HOLE\n\ \n\ @author\ Philip\ Jepkes\n\ @version\ (v.1)\n
+comment1.params=
+comment1.target=Projectile_2End()
+comment2.params=spin
+comment2.target=Projectile_2End(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Projectile_2End\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ countPlus()
+comment4.text=\n\ increment\ counter\n
+comment5.params=
+comment5.target=void\ initializeImages()
+comment6.params=
+comment6.target=void\ hole()
+numComments=7
