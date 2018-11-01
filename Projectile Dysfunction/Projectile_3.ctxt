@@ -1,8 +1,9 @@
 #BlueJ class context
 comment0.target=Projectile_3
-comment0.text=\n\ Write\ a\ description\ of\ class\ Projectile_3\ here.\n\ \n\ @author\ Camille\ Otillio\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Write\ a\ description\ of\ class\ Projectile_3\ here.\n\ \n\ @author\ Camille\ Otillio\n\ @version\ 1\n
 comment1.params=
 comment1.target=Projectile_3()
+comment1.text=\n\ \n
 comment2.params=velocity
 comment2.target=Projectile_3(Vector)
 comment3.params=
