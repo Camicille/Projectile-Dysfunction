@@ -35,7 +35,7 @@ public class Projectile_3 extends SmoothMover
     private void collisionDetector()
     {
         
-       Actor target = getOneIntersectingObject(Target.class);
+    Actor target = getOneIntersectingObject(Target.class);
     if (target != null)
        {
             for(int i = -2; i <= 3; i++){
