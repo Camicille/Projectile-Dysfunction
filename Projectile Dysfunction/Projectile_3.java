@@ -22,7 +22,7 @@ public class Projectile_3 extends SmoothMover
         super(velocity);
     }
    /**
-     * Act - do whatever the Projectile_2 wants to do. This method is called whenever
+     * Bird goes for bats, if hit, releases tree bombs
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
@@ -34,17 +34,17 @@ public class Projectile_3 extends SmoothMover
    
     private void collisionDetector()
     {
-        
-    Actor target = getOneIntersectingObject(Target.class);
-    if (target != null)
-       {
-            for(int i = -2; i <= 3; i++){
-                int angle = 40 * i;
-                AWorld world = (AWorld)getWorld();
-                world.addObject(new Projectile_3End(getRotation() + 90 * i, new Vector(90 + angle, 5)), getX(), getY());
+            
+        Actor target = getOneIntersectingObject(Target.class);
+        if (target != null)
+           {
+                for(int i = -2; i <= 3; i++){
+                    int angle = 40 * i;
+                    AWorld world = (AWorld)getWorld();
+                    world.addObject(new Projectile_3End(getRotation() + 90 * i, new Vector(90 + angle, 5)), getX(), getY());
+                }
+                getWorld().removeObject(this);
             }
-            getWorld().removeObject(this);
-        }
-          
+              
     }
 }

@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Projectile_3End
-comment0.text=\n\ Write\ a\ description\ of\ class\ Projectile_3End\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Tree\ Bombs\ grow\ and\ shrink\ to\ destroy\ bat\ targets\n\ \n\ @author\ Camille\ Otillio\ \n\ @version\ 1\n
 comment1.params=
 comment1.target=Projectile_3End()
 comment2.params=direction\ velocity

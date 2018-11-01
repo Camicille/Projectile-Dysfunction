@@ -2,10 +2,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Projectile_3End here.
+ * Tree Bombs grow and shrink to destroy bat targets
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Camille Otillio 
+ * @version 1
  */
 
 
