@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Projectile_2
+comment0.text=\n\ projectile\n\ \n\ @author\ Philip\ Jepkes\n\ @version\ (v.1)\n
+comment1.params=
+comment1.target=Projectile_2()
+comment1.text=\n\ \n
+comment2.params=velocity
+comment2.target=Projectile_2(Vector)
+comment2.text=\n\ \n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Projectile_2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=int\ spinSpeed()
+comment5.params=
+comment5.target=void\ destroyTarget()
+numComments=6

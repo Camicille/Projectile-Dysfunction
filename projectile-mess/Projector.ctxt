@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Projector
+comment0.text=\n\ Projects\ all\ of\ the\ projectiles\n\ \n\ @author\ Marlene\ Inoue\ \n\ @version\ 1.1\ 31\ October\ 2018\n
+comment1.params=
+comment1.target=void\ chandlerFire()
+comment1.text=\n\ FIXME\:\ write\ down\ what\ your\ vector\ rotation\ will\ be\n
+comment2.params=
+comment2.target=void\ philipFire()
+comment2.text=\n\ FIXME\:\ write\ down\ what\ your\ vector\ rotation\ will\ be\n
+comment3.params=
+comment3.target=void\ camilleFire()
+comment3.text=\n\ FIXME\:\ write\ down\ what\ your\ vector\ rotation\ will\ be\n
+comment4.params=
+comment4.target=void\ tylerFire()
+comment4.text=\n\ FIXME\:\ write\ down\ what\ your\ vector\ rotation\ will\ be\n
+comment5.params=
+comment5.target=void\ resetTime()
+comment5.text=\n\ Resets\ the\ all\ the\ times\ when\ it\ reaches\ 100\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Act\ -\ do\ whatever\ the\ Projector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=7

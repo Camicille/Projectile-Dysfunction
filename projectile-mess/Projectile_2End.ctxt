@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Projectile_2End
+comment0.text=\n\ Write\ a\ description\ of\ class\ Projectile_2End\ here.\n\ \n\ @author\ Philip\ Jepkes\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Projectile_2End\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

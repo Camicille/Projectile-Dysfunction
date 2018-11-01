@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Projectile_4
+comment0.text=\n\ Write\ a\ description\ of\ class\ Projectile_4\ here.\n\ \n\ @author\ Tyler\ Bakeman\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=velocity
+comment1.target=Projectile_4(Vector)
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Projectile_2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3
